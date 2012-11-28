@@ -12,3 +12,13 @@ GroupDocs Viewer plugin for DotNetNuke
 3. Create new Page (Go to Pages > Add New Page) or select existing one.
 4. Go to Modules > Add new module, choose EmbedViewer in Module dropdown and click "Add Module" button.
 Mouse over Embed Viewer module > Manage button, click Settings. Fill inside EmbedViewer Settings tab three properties (GUID, Frame Width, Frame Height) and click Update button. Embed Viewer plugin will be shown.
+
+
+### Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
+* [Download HTML5 Documents Viewer plugin source here](https://github.com/groupdocs/dnn-groupdocs-viewer-source)
+* [Embed DOC, DOCX, PDF Viewer in your DotNetNuke CMS website] (http://store.dotnetnuke.com/home/product-details/groupdocs-word--excel--powerpoint-and-acrobat-pdf-embedded-viewer)
+
+
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+
