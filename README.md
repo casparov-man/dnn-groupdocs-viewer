@@ -1,6 +1,10 @@
 GroupDocs Viewer plugin for DotNetNuke 5
 ====================
 
+### Requirements
+
+Minimal .Net Framework version is 3.5
+
 ### Installation
 
 1. Install DotNetNuke CMS web site (for instance through Microsoft WebMarix) where plugin will be used.
