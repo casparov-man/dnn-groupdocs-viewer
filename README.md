@@ -13,12 +13,12 @@ To use our plugin you need UserId and ApiKey to cofigure the plugin. How and whe
 
 How to get [Document ID (GUID)](http://groupdocs.com/docs/pages/viewpage.action?pageId=1409575)
 
+###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
+1. [Sign documents online with GroupDocs Signature](http://groupdocs.com/apps/signature)
+2. [PDF, Word and Image Annotation with GroupDocs Annotation](http://groupdocs.com/apps/annotation)
+3. [Online DOC, DOCX, PPT Document Comparison with GroupDocs Comparison](http://groupdocs.com/apps/comparison)
+4. [Online Document Management with GroupDocs Dashboard](http://groupdocs.com/apps/dashboard)
+5. [Doc to PDF, Doc to Docx, PPT to PDF, and other Document Conversions with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
+6. [Online Document Automation with GroupDocs Assembly](http://groupdocs.com/apps/assembly)
 
-### Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
-* [Download HTML5 Documents Viewer plugin source here](https://github.com/groupdocs/dnn-groupdocs-viewer-source)
-* [Embed DOC, DOCX, PDF Viewer in your DotNetNuke CMS website] (http://store.dotnetnuke.com/home/product-details/groupdocs-word--excel--powerpoint-and-acrobat-pdf-embedded-viewer)
-
-
-#### Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
-
+#### Created by [GroupDocs Marketplace Team]( http://groupdocs.com/marketplace/ ).
