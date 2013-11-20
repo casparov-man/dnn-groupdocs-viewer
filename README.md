@@ -1,11 +1,7 @@
-dnn-groupdocs-viewer
+GroupDocs Viewer plugin for DotNetNuke
 ====================
 
-GroupDocs Viewer plugin for DotNetNuke
-
-
 ### Installation
-
 
 1. Install DotNetNuke CMS web site (for instance through Microsoft WebMarix) where plugin will be used.
 2. Go to Admin > Extensions feature menu in the admin module. Mouse over "Installed Extensions" and click "Install Extension Wizard". (It should be in Edit mode and mouse over should be on Manage button - should check if it's for all version of DNN). Choose package EmbedViewer_[Version]_Install.zip or EmbedViewer_[Version]_Source.zip in standard open file dialog and click Next. Click Next in opened Package information dialog. Click Next in opened Release Notes dialog. Agree and click Next in opened License dialog.
@@ -24,5 +20,5 @@ How to get [Document ID (GUID)](http://groupdocs.com/docs/pages/viewpage.action?
 * [Embed DOC, DOCX, PDF Viewer in your DotNetNuke CMS website] (http://store.dotnetnuke.com/home/product-details/groupdocs-word--excel--powerpoint-and-acrobat-pdf-embedded-viewer)
 
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+#### Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
 
